@@ -1,4 +1,5 @@
-# Toast-Master-Timer
+# Toast-Master-Timer  
+http://imgur.com/a/2dgX8  
 This is an application that can be used in a Toast Masters Club.  
 It has timers for three different kinds of speeches:  
 * Speech
